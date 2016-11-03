@@ -1,1 +1,92 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+h1,h2,h3,h4 {
+	margin: 0;
+}
+
+p {
+	line-height: 175%;
+	margin: 0;
+}
+
+ul {
+	margin: 0;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.clear {
+	clear: both; 
+}
+
+.logo {
+	background-color: #1127e2;
+	text-align: center;
+	color: #fff;
+}
+
+.logo_img {
+	max-height: 20%;
+	max-width: 20%; 
+}
+
+.description {
+	background-color: #0f22c6;
+	color: #fff;
+	padding: 50px 0;
+}
+
+.origin {
+	background-color: #0d1da9;
+	color: #fff;
+	padding: 50px 0;
+}
+
+.gender {
+	background-color: #0b188d;
+	padding: 50px 0;
+}
+
+.males,.females {
+	color: #fff;
+	float: left;
+	width: 50%;
+}
+
+
+.gallery {
+	background-color: #091471;
+	color: #fff; 
+	padding: 50px 0;
+}
+
+.gallery ul li {
+	float: left;
+	width: 50%;
+	list-style-type: none;
+}
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+  color: #fff;
+  background-color: #060f55;
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 50x;
+  padding: 1%;
+}
+
+
+
 
